@@ -1,9 +1,0 @@
-D:\Programming\Projects\Inkbound\Templates\Inkbound.PluginTemplate\bin\Release\net472\Inkbound.PluginTemplate.dll
-D:\Programming\Projects\Inkbound\Templates\Inkbound.PluginTemplate\bin\Release\net472\Inkbound.PluginTemplate.pdb
-D:\Programming\Projects\Inkbound\Templates\Inkbound.PluginTemplate\obj\Release\net472\Inkbound.PluginTemplate.csproj.AssemblyReference.cache
-D:\Programming\Projects\Inkbound\Templates\Inkbound.PluginTemplate\obj\Release\net472\Inkbound.PluginTemplate.GeneratedMSBuildEditorConfig.editorconfig
-D:\Programming\Projects\Inkbound\Templates\Inkbound.PluginTemplate\obj\Release\net472\Inkbound.PluginTemplate.AssemblyInfoInputs.cache
-D:\Programming\Projects\Inkbound\Templates\Inkbound.PluginTemplate\obj\Release\net472\Inkbound.PluginTemplate.AssemblyInfo.cs
-D:\Programming\Projects\Inkbound\Templates\Inkbound.PluginTemplate\obj\Release\net472\Inkbound.PluginTemplate.csproj.CoreCompileInputs.cache
-D:\Programming\Projects\Inkbound\Templates\Inkbound.PluginTemplate\obj\Release\net472\Inkbound.PluginTemplate.dll
-D:\Programming\Projects\Inkbound\Templates\Inkbound.PluginTemplate\obj\Release\net472\Inkbound.PluginTemplate.pdb
