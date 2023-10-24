@@ -1,6 +1,6 @@
 {
   "$schema": "http://json.schemastore.org/template",
-  "author": "ADDB",
+  "author": "Inkbound Modding Community",
   "classifications": [ "BepInEx", "BepInEx 5" , "Plugin", "Inkbound Plugin" ],
   "identity": "InkboundPlugin",
   "name": "BepInEx 5 Inkbound Plugin",

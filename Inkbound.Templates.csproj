@@ -5,7 +5,7 @@
     <PackageVersion>1.0.5</PackageVersion>
     <PackageId>Inkbound.Templates</PackageId>
     <Title>Inkbound Plugin Templates</Title>
-    <Authors>ADDB</Authors>
+    <Authors>Inkbound Modding Community</Authors>
     <Description>BepInEx 5 Plugin Templates for Inkbound</Description>
     <PackageTags>BepInEx;Plugin;Template;Inkbound</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
