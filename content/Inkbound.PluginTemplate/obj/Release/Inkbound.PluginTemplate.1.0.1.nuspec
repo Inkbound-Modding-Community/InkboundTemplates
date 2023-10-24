@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Inkbound.PluginTemplate</id>
+    <version>1.0.1</version>
+    <authors>Inkbound.PluginTemplate</authors>
+    <description>Template Plugin</description>
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.2">
+        <dependency id="BepInEx.Core" version="5.4.21" exclude="Build,Analyzers" />
+        <dependency id="UnityEngine.Modules" version="2021.3.29" exclude="Runtime,Build,Native,Analyzers,BuildTransitive" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Programming\Projects\Inkbound\Templates\Inkbound.PluginTemplate\bin\Release\net472\Inkbound.PluginTemplate.dll" target="lib\net472\Inkbound.PluginTemplate.dll" />
+  </files>
+</package>
