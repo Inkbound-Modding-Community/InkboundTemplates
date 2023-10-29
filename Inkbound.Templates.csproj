@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <PackageType>Template</PackageType>
-    <PackageVersion>1.0.5</PackageVersion>
+    <PackageVersion>1.0.8</PackageVersion>
     <PackageId>Inkbound.Templates</PackageId>
     <Title>Inkbound Plugin Templates</Title>
     <Authors>Inkbound Modding Community</Authors>
@@ -13,6 +13,7 @@
     <PackageOutputPath>$(SolutionDir)nuget</PackageOutputPath>
     <IncludeContentInPack>true</IncludeContentInPack>
     <IncludeBuildOutput>false</IncludeBuildOutput>
+    <NoDefaultExcludes>true</NoDefaultExcludes>
     <ContentTargetFolders>content</ContentTargetFolders>
     <NoWarn>$(NoWarn);NU5128</NoWarn>
   </PropertyGroup>
