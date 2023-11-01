@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <PackageType>Template</PackageType>
-    <PackageVersion>1.0.8</PackageVersion>
+    <PackageVersion>1.0.9</PackageVersion>
     <PackageId>Inkbound.Templates</PackageId>
     <Title>Inkbound Plugin Templates</Title>
     <Authors>Inkbound Modding Community</Authors>
